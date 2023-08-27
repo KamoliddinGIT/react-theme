@@ -1,5 +1,5 @@
 import "./App.css";
-import Form from "./Components/Form";
+import Form from "./components/Form";
 import { createContext, useState } from "react";
 import ReactSwitch from "react-switch";
 
